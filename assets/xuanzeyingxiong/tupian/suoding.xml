@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="161,70">
+  <displayList>
+    <image id="n4_rb2o" name="n4" src="rb2og" xy="0,39"/>
+    <text id="n5_rb2o" name="n5" xy="87,41" size="60,29" font="ui://kdeodi62rb2o3n" fontSize="16" color="#4e2a2c" align="center" autoSize="none" text="00 09"/>
+    <image id="n7_rb2o" name="n7" src="rb2o4" xy="111,44"/>
+    <loader id="n8_rb2o" name="n8" xy="38,0" size="86,39" url="ui://kdeodi62rb2oi" align="center" vAlign="middle"/>
+  </displayList>
+</component>

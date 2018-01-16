@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1366,351" bgColorEnabled="true" bgColor="#333333">
+  <displayList>
+    <image id="n0_ppbs" name="n0" src="ppbs2" xy="0,98"/>
+    <image id="n1_ppbs" name="n1" src="ppbs5" xy="222,0"/>
+    <image id="n2_ppbs" name="n2" src="ppbs4" xy="13,99"/>
+    <image id="n3_ppbs" name="n3" src="ppbs0" xy="83,117"/>
+    <image id="n4_ppbs" name="n4" src="ppbs1" xy="236,85"/>
+    <image id="n5_ppbs" name="n5" src="ppbs3" xy="1034,139"/>
+  </displayList>
+</component>

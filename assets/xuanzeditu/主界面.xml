@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750" designImage="ui://b3rphb01gjs22a" designImageAlpha="39">
+  <controller name="c1" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n50_fxbk" name="n50" src="gjs218" xy="0,0"/>
+    <image id="n2_wpcs" name="n2" src="gjs219" xy="544,13"/>
+    <image id="n3_wpcs" name="n3" src="gjs21a" xy="1267,13"/>
+    <image id="n4_wpcs" name="n4" src="gjs21b" xy="555,16"/>
+    <image id="n14_wpcs" name="n14" src="gjs219" xy="966,13"/>
+    <image id="n5_wpcs" name="n5" src="gjs21c" xy="122,42"/>
+    <image id="n6_wpcs" name="n6" src="gjs21d" xy="975,16"/>
+    <image id="n7_wpcs" name="n7" src="gjs21e" xy="366,85"/>
+    <image id="n8_wpcs" name="n8" src="gjs21f" xy="120,63"/>
+    <image id="n11_wpcs" name="n11" src="gjs21g" xy="1199,12"/>
+    <image id="n13_wpcs" name="n13" src="gjs219" xy="756,13"/>
+    <image id="n12_wpcs" name="n12" src="gjs21h" xy="770,16"/>
+    <component id="n15_wpcs" name="n15" src="gjs21i" xy="692,13"/>
+    <component id="n16_wpcs" name="n16" src="gjs21i" xy="905,13"/>
+    <component id="n17_wpcs" name="n17" src="gjs21i" xy="1113,13"/>
+    <text id="n18_wpcs" name="n18" xy="632,22" size="59,18" font="ui://dmvx922fwpcs18" fontSize="12" text="12258"/>
+    <text id="n19_wpcs" name="n19" xy="844,22" size="59,18" font="ui://dmvx922fwpcs18" fontSize="12" text="45445"/>
+    <text id="n20_wpcs" name="n20" xy="1053,22" size="59,18" font="ui://dmvx922fwpcs18" fontSize="12" text="75554"/>
+    <component id="n23_wpcs" name="n23" src="gjs21l" xy="1170,612">
+      <gearXY controller="c1" pages="1" values="1219,529" default="1170,612" tween="true"/>
+    </component>
+    <component id="n24_wpcs" name="n24" src="gjs21o" xy="1170,612">
+      <gearXY controller="c1" pages="1" values="1114,529" default="1170,612" tween="true"/>
+    </component>
+    <component id="n25_wpcs" name="n25" src="gjs21r" xy="1170,612">
+      <gearXY controller="c1" pages="1" values="1168,458" default="1170,612" tween="true"/>
+    </component>
+    <component id="n21_wpcs" name="n21" src="gjs21u" xy="1162,603">
+      <Button controller="c1" page="1"/>
+    </component>
+    <image id="n42_wpcs" name="n42" src="gjs21x" xy="40,13"/>
+    <component id="n49_fxbk" name="n49" src="gjs214" xy="36,9"/>
+    <text id="n40_wpcs" name="n40" xy="362,19" size="70,18" font="ui://dmvx922fwpcs1z" fontSize="12" autoSize="none" text="520/888"/>
+    <text id="n45_wpcs" name="n45" xy="178,17" size="131,22" font="黑体" fontSize="18" color="#ffffff" text="你算哪块小饼干"/>
+    <text id="n46_wpcs" name="n46" xy="146,18" size="70,23" font="ui://dmvx922fwpcs1z" fontSize="15" autoSize="none" text="16"/>
+    <component id="n26_wpcs" name="n26" src="gjs21y" xy="12,338"/>
+    <component id="n28_wpcs" name="n28" src="gjs221" xy="12,247"/>
+    <component id="n30_wpcs" name="n30" src="gjs224" xy="12,434"/>
+    <component id="n32_wpcs" name="n32" src="gjs227" xy="12,162"/>
+    <component id="n48_wpcs" name="n48" src="gjs2h" xy="-3,-1" controller="Position,0"/>
+  </displayList>
+</component>

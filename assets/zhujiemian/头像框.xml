@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="83,83" extention="Button">
+  <controller name="button" pages="0,up,1,down" selected="0"/>
+  <displayList>
+    <image id="n62_fxbk" name="n62" src="wpcsu" xy="0,0" filter="color" filterData="-0.30,0.00,0.00,0.00">
+      <gearDisplay controller="button" pages="1"/>
+    </image>
+    <image id="n63_fxbk" name="n63" src="wpcsu" xy="0,0">
+      <gearDisplay controller="button" pages="0"/>
+    </image>
+    <image id="n64_fxbk" name="n64" src="fxbk2l" xy="6,6" filter="color" filterData="-0.20,0.00,0.00,0.00"/>
+    <image id="n65_fxbk" name="n65" src="fxbk2l" xy="6,6">
+      <gearDisplay controller="button" pages="0"/>
+    </image>
+  </displayList>
+  <Button/>
+</component>

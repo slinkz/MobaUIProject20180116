@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="f432uxfi" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="bptw0" name="img-zhugong.png" path="/tupian/"/>
+    <image id="bptw1" name="img-Btouxiangkuan.png" path="/tupian/" qualityOption="source"/>
+    <image id="bptw2" name="img-di.png" path="/tupian/" qualityOption="source"/>
+    <image id="bptw3" name="img-dianchi.png" path="/tupian/" qualityOption="source"/>
+    <image id="bptw4" name="img-gongji.png" path="/tupian/"/>
+    <image id="bptw5" name="img-hong.png" path="/tupian/"/>
+    <image id="bptw6" name="img-jinengdi.png" path="/tupian/" qualityOption="source"/>
+    <image id="bptw7" name="img-jinengdi1.png" path="/tupian/" qualityOption="source"/>
+    <image id="bptw8" name="img-jinengtiao.png" path="/tupian/" qualityOption="source"/>
+    <image id="bptw9" name="img-lv.png" path="/tupian/" scale="9grid" scale9grid="1,3,2,6" qualityOption="source"/>
+    <image id="bptwa" name="img-nvqi.png" path="/tupian/" qualityOption="source"/>
+    <image id="bptwb" name="img-nvqikuang.png" path="/tupian/" qualityOption="source"/>
+    <image id="bptwc" name="img-Rtouxiangkuang.png" path="/tupian/" qualityOption="source"/>
+    <image id="bptwd" name="img-shijian.png" path="/tupian/"/>
+    <image id="bptwe" name="img-siwang.png" path="/tupian/"/>
+    <image id="bptwf" name="img-tubiaozhezhao.png" path="/tupian/" qualityOption="source"/>
+    <image id="bptwg" name="img-vs.png" path="/tupian/" qualityOption="source"/>
+    <image id="bptwh" name="img-xiaoditudi.png" path="/tupian/" qualityOption="source"/>
+    <image id="bptwi" name="img-yaogan.png" path="/tupian/"/>
+    <image id="bptwj" name="img-zhezhaoyuan.png" path="/tupian/"/>
+    <image id="bptwk" name="img-zhizhen.png" path="/tupian/"/>
+    <image id="bptwl" name="wifi.png" path="/tupian/shuzi-wifi/"/>
+    <image id="bptwm" name="0.png" path="/tupian/shuzi-wifi/"/>
+    <image id="bptwn" name="1.png" path="/tupian/shuzi-wifi/"/>
+    <image id="bptwo" name="2.png" path="/tupian/shuzi-wifi/"/>
+    <image id="bptwp" name="3.png" path="/tupian/shuzi-wifi/"/>
+    <image id="bptwq" name="4.png" path="/tupian/shuzi-wifi/"/>
+    <image id="bptwr" name="5.png" path="/tupian/shuzi-wifi/"/>
+    <image id="bptws" name="6.png" path="/tupian/shuzi-wifi/"/>
+    <image id="bptwt" name="7.png" path="/tupian/shuzi-wifi/"/>
+    <image id="bptwu" name="8.png" path="/tupian/shuzi-wifi/"/>
+    <image id="bptwv" name="9.png" path="/tupian/shuzi-wifi/"/>
+    <image id="bptww" name="ms.png" path="/tupian/shuzi-wifi/"/>
+    <image id="bptwx" name="9.png" path="/tupian/shuzi-hong/"/>
+    <image id="bptwy" name="0.png" path="/tupian/shuzi-hong/"/>
+    <image id="bptwz" name="1.png" path="/tupian/shuzi-hong/"/>
+    <image id="bptw10" name="2.png" path="/tupian/shuzi-hong/"/>
+    <image id="bptw11" name="3.png" path="/tupian/shuzi-hong/"/>
+    <image id="bptw12" name="4.png" path="/tupian/shuzi-hong/"/>
+    <image id="bptw13" name="5.png" path="/tupian/shuzi-hong/"/>
+    <image id="bptw14" name="6.png" path="/tupian/shuzi-hong/"/>
+    <image id="bptw15" name="7.png" path="/tupian/shuzi-hong/"/>
+    <image id="bptw16" name="8.png" path="/tupian/shuzi-hong/"/>
+    <image id="bptw17" name="0.png" path="/tupian/shuzi/"/>
+    <image id="bptw18" name="1.png" path="/tupian/shuzi/"/>
+    <image id="bptw19" name="2.png" path="/tupian/shuzi/"/>
+    <image id="bptw1a" name="3.png" path="/tupian/shuzi/"/>
+    <image id="bptw1b" name="4.png" path="/tupian/shuzi/"/>
+    <image id="bptw1c" name="5.png" path="/tupian/shuzi/"/>
+    <image id="bptw1d" name="6.png" path="/tupian/shuzi/"/>
+    <image id="bptw1e" name="7.png" path="/tupian/shuzi/"/>
+    <image id="bptw1f" name="8.png" path="/tupian/shuzi/"/>
+    <image id="bptw1g" name="9.png" path="/tupian/shuzi/"/>
+    <image id="bptw1h" name="0.png" path="/tupian/shuzi-daojishi/"/>
+    <image id="bptw1i" name="1.png" path="/tupian/shuzi-daojishi/"/>
+    <image id="bptw1j" name="2.png" path="/tupian/shuzi-daojishi/"/>
+    <image id="bptw1k" name="3.png" path="/tupian/shuzi-daojishi/"/>
+    <image id="bptw1l" name="4.png" path="/tupian/shuzi-daojishi/"/>
+    <image id="bptw1m" name="5.png" path="/tupian/shuzi-daojishi/"/>
+    <image id="bptw1n" name="6.png" path="/tupian/shuzi-daojishi/"/>
+    <image id="bptw1o" name="7.png" path="/tupian/shuzi-daojishi/"/>
+    <image id="bptw1p" name="8.png" path="/tupian/shuzi-daojishi/"/>
+    <image id="bptw1q" name="9.png" path="/tupian/shuzi-daojishi/"/>
+    <image id="bptw1r" name="0.png" path="/tupian/shuzi-jinbi/"/>
+    <image id="bptw1s" name="1.png" path="/tupian/shuzi-jinbi/"/>
+    <image id="bptw1t" name="2.png" path="/tupian/shuzi-jinbi/"/>
+    <image id="bptw1u" name="3.png" path="/tupian/shuzi-jinbi/"/>
+    <image id="bptw1v" name="4.png" path="/tupian/shuzi-jinbi/"/>
+    <image id="bptw1w" name="5.png" path="/tupian/shuzi-jinbi/"/>
+    <image id="bptw1x" name="6.png" path="/tupian/shuzi-jinbi/"/>
+    <image id="bptw1y" name="7.png" path="/tupian/shuzi-jinbi/"/>
+    <image id="bptw1z" name="8.png" path="/tupian/shuzi-jinbi/"/>
+    <image id="bptw20" name="9.png" path="/tupian/shuzi-jinbi/"/>
+    <image id="bptw21" name="0.png" path="/tupian/shuzi-lan/"/>
+    <image id="bptw22" name="1.png" path="/tupian/shuzi-lan/"/>
+    <image id="bptw23" name="2.png" path="/tupian/shuzi-lan/"/>
+    <image id="bptw24" name="3.png" path="/tupian/shuzi-lan/"/>
+    <image id="bptw25" name="4.png" path="/tupian/shuzi-lan/"/>
+    <image id="bptw26" name="5.png" path="/tupian/shuzi-lan/"/>
+    <image id="bptw27" name="6.png" path="/tupian/shuzi-lan/"/>
+    <image id="bptw28" name="7.png" path="/tupian/shuzi-lan/"/>
+    <image id="bptw29" name="8.png" path="/tupian/shuzi-lan/"/>
+    <image id="bptw2a" name="9.png" path="/tupian/shuzi-lan/"/>
+    <image id="bptw2b" name="0.png" path="/tupian/shuzi-lengque/"/>
+    <image id="bptw2c" name="1.png" path="/tupian/shuzi-lengque/"/>
+    <image id="bptw2d" name="2.png" path="/tupian/shuzi-lengque/"/>
+    <image id="bptw2e" name="3.png" path="/tupian/shuzi-lengque/"/>
+    <image id="bptw2f" name="4.png" path="/tupian/shuzi-lengque/"/>
+    <image id="bptw2g" name="5.png" path="/tupian/shuzi-lengque/"/>
+    <image id="bptw2h" name="6.png" path="/tupian/shuzi-lengque/"/>
+    <image id="bptw2i" name="7.png" path="/tupian/shuzi-lengque/"/>
+    <image id="bptw2j" name="8.png" path="/tupian/shuzi-lengque/"/>
+    <image id="bptw2k" name="9.png" path="/tupian/shuzi-lengque/"/>
+    <image id="bptw3d" name="MOBA手游战斗内.jpg" path="/tupian/"/>
+    <component id="bptw3e" name="zhandounei.xml" path="/" exported="true"/>
+    <image id="bptw3f" name="img-ditu.jpg" path="/tupian/"/>
+    <image id="bptw3l" name="btn-zuoqi1.png" path="/tupian/btn/"/>
+    <image id="bptw3m" name="btn-fangda0.png" path="/tupian/btn/" qualityOption="source"/>
+    <image id="bptw3n" name="btn-fangda1.png" path="/tupian/btn/" qualityOption="source"/>
+    <image id="bptw3o" name="btn-fangshou0.png" path="/tupian/btn/" qualityOption="source"/>
+    <image id="bptw3p" name="btn-fangshou1.png" path="/tupian/btn/" qualityOption="source"/>
+    <image id="bptw3q" name="btn-gongji0.png" path="/tupian/btn/" qualityOption="source"/>
+    <image id="bptw3r" name="btn-gongji1.png" path="/tupian/btn/" qualityOption="source"/>
+    <image id="bptw3s" name="btn-goumai0.png" path="/tupian/btn/" qualityOption="source"/>
+    <image id="bptw3t" name="btn-goumai1.png" path="/tupian/btn/" qualityOption="source"/>
+    <image id="bptw3u" name="btn-jihe0.png" path="/tupian/btn/" qualityOption="source"/>
+    <image id="bptw3v" name="btn-jihe1.png" path="/tupian/btn/" qualityOption="source"/>
+    <image id="bptw3w" name="btn-jingong0.png" path="/tupian/btn/" qualityOption="source"/>
+    <image id="bptw3x" name="btn-jingong1.png" path="/tupian/btn/" qualityOption="source"/>
+    <image id="bptw3y" name="btn-shanxian0.png" path="/tupian/btn/"/>
+    <image id="bptw3z" name="btn-shanxian1.png" path="/tupian/btn/"/>
+    <image id="bptw40" name="btn-shengyin0.png" path="/tupian/btn/" qualityOption="source"/>
+    <image id="bptw41" name="btn-shengyin1.png" path="/tupian/btn/" qualityOption="source"/>
+    <image id="bptw42" name="btn-shezhi0.png" path="/tupian/btn/" qualityOption="source"/>
+    <image id="bptw43" name="btn-shezhi1.png" path="/tupian/btn/" qualityOption="source"/>
+    <image id="bptw44" name="btn-shixiang0.png" path="/tupian/btn/" qualityOption="source"/>
+    <image id="bptw45" name="btn-shixiang1.png" path="/tupian/btn/" qualityOption="source"/>
+    <image id="bptw46" name="btn-shouqi0.png" path="/tupian/btn/" qualityOption="source"/>
+    <image id="bptw47" name="btn-shouqi1.png" path="/tupian/btn/" qualityOption="source"/>
+    <image id="bptw48" name="btn-xinxi0.png" path="/tupian/btn/" qualityOption="source"/>
+    <image id="bptw49" name="btn-xinxi1.png" path="/tupian/btn/" qualityOption="source"/>
+    <image id="bptw4a" name="btn-yaogan0.png" path="/tupian/btn/"/>
+    <image id="bptw4b" name="btn-yaogan1.png" path="/tupian/btn/"/>
+    <image id="bptw4c" name="btn-yuyin0.png" path="/tupian/btn/" qualityOption="source"/>
+    <image id="bptw4d" name="btn-yuyin1.png" path="/tupian/btn/" qualityOption="source"/>
+    <image id="bptw4e" name="btn-zuoqi0.png" path="/tupian/btn/"/>
+    <component id="bptw4f" name="btn-gongji.xml" path="/"/>
+    <component id="bptw4g" name="btn-shouqi.xml" path="/"/>
+    <component id="bptw4h" name="btn-xinxi.xml" path="/"/>
+    <component id="bptw4i" name="btn-jihe.xml" path="/"/>
+    <component id="bptw4j" name="btn-fangshou.xml" path="/"/>
+    <component id="bptw4l" name="btn-jingong.xml" path="/"/>
+    <component id="bptw4m" name="btn-shezhi.xml" path="/"/>
+    <component id="bptw4n" name="btn-shixiang.xml" path="/"/>
+    <font id="bptw4o" name="shuzi.fnt" path="/tupian/shuzi/" exported="true"/>
+    <font id="h41a4p" name="shuzi-wifi.fnt" path="/tupian/shuzi-wifi/" exported="true"/>
+    <component id="h41a4q" name="wifi.xml" path="/tupian/shuzi-wifi/"/>
+    <font id="h41a4r" name="shuzi-hong.fnt" path="/tupian/shuzi-hong/" exported="true"/>
+    <font id="h41a4s" name="shuzi-lan.fnt" path="/tupian/shuzi-lan/" exported="true"/>
+    <component id="h41a4t" name="youshang.xml" path="/"/>
+    <font id="h41a4u" name="shuzi-lengque.fnt" path="/tupian/shuzi-lengque/" exported="true"/>
+    <component id="h41a4v" name="jineng.xml" path="/tupian/shuzi-lengque/"/>
+    <component id="h41a4w" name="jinengxiao.xml" path="/"/>
+    <component id="h41a4x" name="btn-shanxian.xml" path="/"/>
+    <component id="h41a4y" name="btn-zuoqi.xml" path="/"/>
+    <component id="h41a4z" name="btn-yaogan.xml" path="/"/>
+    <component id="h41a50" name="btn-goumai.xml" path="/"/>
+    <font id="h41a51" name="shuzi-jinbi.fnt" path="/tupian/shuzi-jinbi/" exported="true"/>
+    <component id="h41a52" name="goumai.xml" path="/tupian/shuzi-jinbi/"/>
+    <image id="h41a54" name="img-xiaodituda.png" path="/tupian/" qualityOption="source"/>
+    <component id="md8u56" name="btn-fangda.xml" path="/"/>
+    <component id="md8u57" name="xiaoditu.xml" path="/"/>
+    <component id="md8u58" name="btn-shengyin.xml" path="/"/>
+    <component id="md8u59" name="btn-yuyin.xml" path="/"/>
+    <component id="md8u5a" name="lantouxiang.xml" path="/tupian/"/>
+    <font id="ppbs5b" name="shuzi-daojishi.fnt" path="/tupian/shuzi-daojishi/" exported="true"/>
+    <component id="ppbs5c" name="touxianghong.xml" path="/"/>
+  </resources>
+  <publish name="zhandounei"/>
+</packageDescription>

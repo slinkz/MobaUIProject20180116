@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750" designImage="ui://kohdysworb2o28" designImageAlpha="39">
+  <controller name="c1" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n50_fxbk" name="n50" src="rb2o16" xy="0,0"/>
+    <image id="n2_wpcs" name="n2" src="rb2o17" xy="544,13"/>
+    <image id="n3_wpcs" name="n3" src="rb2o18" xy="1267,13"/>
+    <image id="n4_wpcs" name="n4" src="rb2o19" xy="555,16"/>
+    <image id="n14_wpcs" name="n14" src="rb2o17" xy="966,13"/>
+    <image id="n5_wpcs" name="n5" src="rb2o1a" xy="122,42"/>
+    <image id="n6_wpcs" name="n6" src="rb2o1b" xy="975,16"/>
+    <image id="n7_wpcs" name="n7" src="rb2o1c" xy="366,85"/>
+    <image id="n8_wpcs" name="n8" src="rb2o1d" xy="120,63"/>
+    <image id="n11_wpcs" name="n11" src="rb2o1e" xy="1199,12"/>
+    <image id="n13_wpcs" name="n13" src="rb2o17" xy="756,13"/>
+    <image id="n12_wpcs" name="n12" src="rb2o1f" xy="770,16"/>
+    <component id="n15_wpcs" name="n15" src="rb2o1g" xy="692,13"/>
+    <component id="n16_wpcs" name="n16" src="rb2o1g" xy="905,13"/>
+    <component id="n17_wpcs" name="n17" src="rb2o1g" xy="1113,13"/>
+    <text id="n18_wpcs" name="n18" xy="632,22" size="59,18" font="ui://dmvx922fwpcs18" fontSize="12" text="12258"/>
+    <text id="n19_wpcs" name="n19" xy="844,22" size="59,18" font="ui://dmvx922fwpcs18" fontSize="12" text="45445"/>
+    <text id="n20_wpcs" name="n20" xy="1053,22" size="59,18" font="ui://dmvx922fwpcs18" fontSize="12" text="75554"/>
+    <component id="n23_wpcs" name="n23" src="rb2o1j" xy="1170,612">
+      <gearXY controller="c1" pages="1" values="1219,529" default="1170,612" tween="true"/>
+    </component>
+    <component id="n24_wpcs" name="n24" src="rb2o1m" xy="1170,612">
+      <gearXY controller="c1" pages="1" values="1114,529" default="1170,612" tween="true"/>
+    </component>
+    <component id="n25_wpcs" name="n25" src="rb2o1p" xy="1170,612">
+      <gearXY controller="c1" pages="1" values="1168,458" default="1170,612" tween="true"/>
+    </component>
+    <component id="n21_wpcs" name="n21" src="rb2o1s" xy="1162,603">
+      <Button controller="c1" page="1"/>
+    </component>
+    <image id="n42_wpcs" name="n42" src="rb2o1v" xy="40,13"/>
+    <component id="n49_fxbk" name="n49" src="rb2o12" xy="36,9"/>
+    <text id="n40_wpcs" name="n40" xy="362,19" size="70,18" font="ui://dmvx922fwpcs1z" fontSize="12" autoSize="none" text="520/888"/>
+    <text id="n45_wpcs" name="n45" xy="178,17" size="131,22" font="黑体" fontSize="18" color="#ffffff" text="你算哪块小饼干"/>
+    <text id="n46_wpcs" name="n46" xy="146,18" size="70,23" font="ui://dmvx922fwpcs1z" fontSize="15" autoSize="none" text="16"/>
+    <component id="n26_wpcs" name="n26" src="rb2o1w" xy="12,338"/>
+    <component id="n28_wpcs" name="n28" src="rb2o1z" xy="12,247"/>
+    <component id="n30_wpcs" name="n30" src="rb2o22" xy="12,434"/>
+    <component id="n32_wpcs" name="n32" src="rb2o25" xy="12,162"/>
+    <component id="n48_wpcs" name="n48" src="rb2of" xy="-3,-1" controller="Position,0"/>
+  </displayList>
+</component>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,60">
+  <displayList>
+    <image id="n2_gjs2" name="n2" src="rb2o17" xy="0,0"/>
+    <component id="n3_gjs2" name="n3" src="rb2o18" xy="0,0"/>
+    <image id="n4_gjs2" name="n4" src="rb2o1a" xy="544,13" group="n8_gjs2"/>
+    <image id="n5_gjs2" name="n5" src="rb2o1b" xy="555,16" group="n8_gjs2"/>
+    <component id="n6_gjs2" name="n6" src="rb2o1c" xy="692,13" group="n8_gjs2"/>
+    <text id="n7_gjs2" name="n7" xy="632,22" size="59,18" group="n8_gjs2" font="ui://dmvx922fwpcs18" fontSize="12" text="12258"/>
+    <group id="n8_gjs2" name="n8" xy="544,13" size="198,36"/>
+    <image id="n9_gjs2" name="n9" src="rb2o1a" xy="756,13" group="n13_gjs2"/>
+    <image id="n10_gjs2" name="n10" src="rb2o1f" xy="770,16" group="n13_gjs2"/>
+    <component id="n11_gjs2" name="n11" src="rb2o1c" xy="905,13" group="n13_gjs2"/>
+    <text id="n12_gjs2" name="n12" xy="844,22" size="59,18" group="n13_gjs2" font="ui://dmvx922fwpcs18" fontSize="12" text="45445"/>
+    <group id="n13_gjs2" name="n13" xy="756,13" size="199,36"/>
+    <image id="n14_gjs2" name="n14" src="rb2o1a" xy="966,13" group="n18_gjs2"/>
+    <image id="n15_gjs2" name="n15" src="rb2o1g" xy="975,16" group="n18_gjs2"/>
+    <component id="n16_gjs2" name="n16" src="rb2o1c" xy="1113,13" group="n18_gjs2"/>
+    <text id="n17_gjs2" name="n17" xy="1053,22" size="59,18" group="n18_gjs2" font="ui://dmvx922fwpcs18" fontSize="12" text="75554"/>
+    <group id="n18_gjs2" name="n18" xy="966,13" size="198,36"/>
+    <image id="n19_gjs2" name="n19" src="rb2o1h" xy="1267,13"/>
+    <image id="n20_gjs2" name="n20" src="rb2o1i" xy="1199,12"/>
+    <image id="n27_rb2o" name="n27" src="rb2o11" xy="200,15"/>
+  </displayList>
+</component>

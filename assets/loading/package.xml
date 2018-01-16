@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="kuowrogl" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="rb2o0" name="loading.png" path="/tupian/"/>
+    <component id="rb2o1" name="loading.xml" path="/" exported="true"/>
+    <image id="rb2o2" name="img-kapaidi.png" path="/tupian/" qualityOption="source"/>
+    <image id="rb2o3" name="img-lantiao.png" path="/tupian/" qualityOption="source"/>
+    <image id="rb2o4" name="img-hongtiao.png" path="/tupian/"/>
+    <image id="rb2o5" name="img-loadingdi.jpg" path="/tupian/" qualityOption="source"/>
+    <image id="rb2o6" name="img-mingpiandi.png" path="/tupian/" qualityOption="source"/>
+    <image id="rb2o7" name="img-VS.png" path="/tupian/" qualityOption="source"/>
+    <component id="rb2o8" name="lan.xml" path="/"/>
+    <component id="rb2o9" name="hong.xml" path="/"/>
+    <image id="rb2oa" name="1.png" path="/tupian/"/>
+    <image id="rb2ob" name="2.png" path="/tupian/"/>
+    <image id="ug0oc" name="3.png" path="/tupian/"/>
+    <image id="ug0od" name="4.png" path="/tupian/"/>
+    <component id="kv89e" name="Component1.xml" path="/"/>
+  </resources>
+  <publish name="loading"/>
+</packageDescription>

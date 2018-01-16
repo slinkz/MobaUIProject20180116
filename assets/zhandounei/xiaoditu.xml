@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="637,582">
+  <controller name="xiaoditu" pages="0,缩小,1,放大" selected="1"/>
+  <displayList>
+    <image id="n46_h41a" name="n46" src="bptwh" xy="4,4">
+      <gearDisplay controller="xiaoditu" pages="0"/>
+    </image>
+    <image id="n48_md8u" name="n48" src="h41a54" xy="0,0">
+      <gearDisplay controller="xiaoditu" pages="1"/>
+    </image>
+    <component id="n49_md8u" name="n49" src="md8u56" xy="254,195">
+      <gearDisplay controller="xiaoditu" pages="0"/>
+    </component>
+    <component id="n50_md8u" name="n50" src="md8u56" xy="597,483">
+      <gearDisplay controller="xiaoditu" pages="1"/>
+    </component>
+  </displayList>
+</component>

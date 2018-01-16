@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="61,20">
+  <displayList>
+    <image id="n19_h41a" name="n19" src="bptwl" xy="0,0"/>
+    <text id="n20_h41a" name="n20" xy="19,1" size="26,19" font="ui://f432uxfih41a4p" fontSize="12" leading="0" letterSpacing="-4" text="65"/>
+    <image id="n21_h41a" name="n21" src="bptww" xy="39,3"/>
+  </displayList>
+</component>

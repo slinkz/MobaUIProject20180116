@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="263,321" extention="Label">
+  <displayList>
+    <image id="n0_rb2o" name="n0" src="rb2o2" xy="0,0"/>
+    <loader id="n4_rb2o" name="icon" xy="0,1" size="258,274" align="center" vAlign="middle"/>
+    <image id="n1_rb2o" name="n1" src="rb2o6" xy="29,247"/>
+    <image id="n3_rb2o" name="n3" src="rb2o4" xy="34,309"/>
+    <text id="n5_rb2o" name="title" xy="105,281" size="92,28" font="微软雅黑" fontSize="18" color="#ff4747" align="center" vAlign="middle" autoSize="none" text=""/>
+  </displayList>
+</component>

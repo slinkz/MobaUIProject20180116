@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="171,82" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="1"/>
+  <displayList>
+    <image id="n2" name="n2" src="rb2o2b" xy="0,0">
+      <gearDisplay controller="button" pages="1,3"/>
+    </image>
+    <loader id="n4_rb2o" name="n4" xy="35,12" size="110,50" url="ui://kohdysworb2o2l" align="center" vAlign="middle">
+      <gearDisplay controller="button" pages="0,2"/>
+    </loader>
+    <loader id="n7_rb2o" name="n7" xy="35,12" size="110,50" url="ui://kohdysworb2o2m" align="center" vAlign="middle">
+      <gearDisplay controller="button" pages="1,3"/>
+    </loader>
+  </displayList>
+  <Button mode="Radio"/>
+</component>

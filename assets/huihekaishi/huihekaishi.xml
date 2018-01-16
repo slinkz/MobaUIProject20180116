@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,366">
+  <displayList>
+    <image id="n0_ppbs" name="n0" src="ppbs1" xy="0,75" size="1334,196"/>
+    <image id="n1_ppbs" name="n1" src="ppbso" xy="478,2"/>
+    <image id="n3_ppbs" name="n3" src="ppbsp" xy="804,0"/>
+    <image id="n2_ppbs" name="n2" src="ppbsm" xy="576,185"/>
+    <image id="n4_ppbs" name="n4" src="ppbsn" xy="792,196"/>
+    <image id="n5_ppbs" name="n5" src="ppbss" xy="840,200"/>
+    <image id="n6_ppbs" name="n6" src="ppbs0" xy="860,118"/>
+    <text id="n7_ppbs" name="n7" xy="957,116" size="99,60" font="ui://21a888heppbst" fontSize="12" align="center" letterSpacing="-11" autoSize="none" text="3"/>
+    <text id="n8_ppbs" name="n8" xy="781,198" size="72,30" font="ui://21a888heppbsu" fontSize="12" align="center" letterSpacing="-2" autoSize="none" text="10"/>
+  </displayList>
+</component>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="50,50">
+  <displayList>
+    <image id="n52_md8u" name="n52" src="bptw1" xy="5,5"/>
+    <image id="n53_md8u" name="n53" src="bptwb" xy="4,41"/>
+    <image id="n54_md8u" name="n54" src="bptwa" xy="4,41"/>
+  </displayList>
+</component>

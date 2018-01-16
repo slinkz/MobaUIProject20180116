@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="611,52">
+  <controller name="zhenwangtishi" pages="0,敌军阵亡,1,友军阵亡" selected="1"/>
+  <displayList>
+    <image id="n0_ppbs" name="n0" src="ppbs1" xy="0,0">
+      <gearDisplay controller="zhenwangtishi" pages="0"/>
+    </image>
+    <image id="n1_ppbs" name="n1" src="ppbs0" xy="0,0">
+      <gearDisplay controller="zhenwangtishi" pages="1"/>
+    </image>
+  </displayList>
+</component>

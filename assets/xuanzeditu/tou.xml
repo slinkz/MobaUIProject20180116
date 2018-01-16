@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,60">
+  <displayList>
+    <image id="n2_gjs2" name="n2" src="gjs27" xy="0,0"/>
+    <component id="n3_gjs2" name="n3" src="gjs22b" xy="0,0"/>
+    <image id="n26_gjs2" name="n26" src="gjs22h" xy="202,15"/>
+  </displayList>
+</component>

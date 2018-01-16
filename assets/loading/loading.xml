@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750" opaque="false" designImage="ui://kuowroglrb2o0" designImageAlpha="0">
+  <controller name="IsHide" exported="true" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n3_rb2o" name="n3" src="rb2o5" xy="0,0" group="n8_kv89"/>
+    <list id="n4_rb2o" name="n4" xy="21,7" size="1246,335" group="n8_kv89" layout="flow_hz" overflow="hidden" colGap="-28" defaultItem="ui://kuowroglrb2o8" vAlign="middle">
+      <item title="虚灵战士" icon="ui://kuowroglrb2oa"/>
+      <item title="源计划" icon="ui://kuowroglrb2ob"/>
+      <item title="冬兵" icon="ui://kuowroglug0oc"/>
+      <item title="双刀盗贼" icon="ui://kuowroglug0od"/>
+      <item title="虚灵战士" icon="ui://kuowroglrb2oa"/>
+    </list>
+    <list id="n5_rb2o" name="n5" xy="111,393" size="1246,335" group="n8_kv89" layout="flow_hz" overflow="scroll" colGap="-28" defaultItem="ui://kuowroglrb2o9" vAlign="middle">
+      <item title="双刀盗贼" icon="ui://kuowroglug0od"/>
+      <item title="冬兵" icon="ui://kuowroglug0oc"/>
+      <item title="虚灵战士" icon="ui://kuowroglrb2oa"/>
+      <item title="源计划" icon="ui://kuowroglrb2ob"/>
+      <item title="双刀盗贼" icon="ui://kuowroglug0od"/>
+    </list>
+    <component id="n6_rb2o" name="n6" src="kv89e" xy="609,330" group="n8_kv89">
+      <Button controller="IsHide" page="1"/>
+    </component>
+    <text id="n7_rb2o" name="n7" xy="874,351" size="383,35" group="n8_kv89" font="微软雅黑" fontSize="24" color="#ffffff" vAlign="middle" autoSize="none" text="温馨提示：请注意草丛里的敌人！"/>
+    <group id="n8_kv89" name="n8" xy="0,0" size="1357,750" advanced="true">
+      <gearDisplay controller="IsHide" pages="0"/>
+    </group>
+  </displayList>
+</component>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="127,127">
+  <displayList>
+    <image id="n35_h41a" name="n35" src="bptw7" xy="0,0"/>
+    <image id="n37_h41a" name="n37" src="bptwf" xy="0,0" hideByEditor="true"/>
+    <text id="n38_h41a" name="n38" xy="13,41" size="103,40" hideByEditor="true" font="ui://f432uxfih41a4u" fontSize="16" color="#999999" align="center" leading="0" letterSpacing="-10" autoSize="none" text="22"/>
+    <image id="n39_h41a" name="n39" src="bptwk" xy="62,16" hideByEditor="true"/>
+  </displayList>
+</component>

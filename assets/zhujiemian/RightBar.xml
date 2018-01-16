@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750" opaque="false">
+  <displayList>
+    <image id="n2_wpcs" name="n2" src="wpcsj" xy="544,13" group="n51_gjs2"/>
+    <image id="n4_wpcs" name="n4" src="wpcsl" xy="555,16" group="n51_gjs2"/>
+    <component id="n15_wpcs" name="n15" src="wpcs17" xy="692,13" group="n51_gjs2"/>
+    <text id="n18_wpcs" name="n18" xy="632,22" size="59,18" group="n51_gjs2" font="ui://dmvx922fwpcs18" fontSize="12" text="12258"/>
+    <group id="n51_gjs2" name="n51" xy="544,13" size="198,36" collapsed="true"/>
+    <image id="n13_wpcs" name="n13" src="wpcsj" xy="756,13" group="n52_gjs2"/>
+    <image id="n12_wpcs" name="n12" src="wpcsw" xy="770,16" group="n52_gjs2"/>
+    <component id="n16_wpcs" name="n16" src="wpcs17" xy="905,13" group="n52_gjs2"/>
+    <text id="n19_wpcs" name="n19" xy="844,22" size="59,18" group="n52_gjs2" font="ui://dmvx922fwpcs18" fontSize="12" text="45445"/>
+    <group id="n52_gjs2" name="n52" xy="756,13" size="199,36" collapsed="true"/>
+    <image id="n14_wpcs" name="n14" src="wpcsj" xy="966,13" group="n53_gjs2"/>
+    <image id="n6_wpcs" name="n6" src="wpcsq" xy="975,16" group="n53_gjs2"/>
+    <component id="n17_wpcs" name="n17" src="wpcs17" xy="1113,13" group="n53_gjs2"/>
+    <text id="n20_wpcs" name="n20" xy="1053,22" size="59,18" group="n53_gjs2" font="ui://dmvx922fwpcs18" fontSize="12" text="75554"/>
+    <group id="n53_gjs2" name="n53" xy="966,13" size="198,36" collapsed="true"/>
+    <image id="n11_wpcs" name="n11" src="wpcsv" xy="1199,12"/>
+    <image id="n3_wpcs" name="n3" src="wpcsk" xy="1267,13"/>
+  </displayList>
+</component>

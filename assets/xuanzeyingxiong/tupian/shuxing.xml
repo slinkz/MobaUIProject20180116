@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="134,44" extention="ComboBox">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n1" name="n1" src="rb2ox" xy="0,0" size="134,44">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <loader id="n3_rb2o" name="n3" xy="0,1" size="132,42" url="ui://kdeodi62rb2o15" align="center" vAlign="middle"/>
+    <image id="n4_rb2o" name="n4" src="rb2oy" xy="102,15"/>
+  </displayList>
+  <ComboBox dropdown="ui://kdeodi62rb2o3f"/>
+</component>

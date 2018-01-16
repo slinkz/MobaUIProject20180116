@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750" overflow="hidden" opaque="false">
+  <displayList>
+    <image id="n0_gjs2" name="n0" src="gjs24" xy="0,60"/>
+    <component id="n23_gjs2" name="Map3v3Button" src="gjs22d" xy="130,392"/>
+    <component id="n24_gjs2" name="Map5v5Button" src="gjs22c" xy="469,142">
+      <Button page="1"/>
+    </component>
+    <component id="n25_gjs2" name="Map1v1Button" src="gjs22g" xy="130,142"/>
+    <image id="n27_lr86" name="n27" src="gjs27" xy="0,0"/>
+    <component id="n28_lr86" name="ReturnButton" src="gjs22b" xy="0,0"/>
+    <image id="n29_lr86" name="n29" src="gjs22h" xy="202,15"/>
+  </displayList>
+</component>

@@ -1,0 +1,14 @@
+{
+	"codeGeneration":{
+		"classNamePrefix":"UI_",
+		"codePath":"F:\\UnityProjects\\KSFramework-xlua\\KSFramework\\Assets\\Code\\UI",
+		"codeType":"",
+		"getMemberByName":true,
+		"ignoreNoname":true,
+		"memberNamePrefix":"m_",
+		"packageName":""
+	},
+	"fileExtension":"",
+	"packageCount":2,
+	"path":"F:\\UnityProjects\\KSFramework-xlua\\KSFramework\\Assets\\FairyGUIResources"
+}

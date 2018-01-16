@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="437,761" opaque="false" designImage="ui://b3rphb01gjs217" designImageAlpha="0">
+  <controller name="c1" pages="0,,1,,2," selected="0"/>
+  <controller name="Position" exported="true" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n48_wpcs" name="n48" src="gjs2i" xy="-439,0" group="n53_wpcs"/>
+    <component id="n49_wpcs" name="n49" src="gjs2j" xy="-440,0" group="n53_wpcs">
+      <Button checked="true" controller="c1" page="0"/>
+    </component>
+    <component id="n50_wpcs" name="n50" src="gjs2m" xy="-304,0" group="n53_wpcs">
+      <Button controller="c1" page="1"/>
+    </component>
+    <component id="n51_wpcs" name="n51" src="gjs2p" xy="-196,0" group="n53_wpcs">
+      <Button controller="c1" page="2"/>
+    </component>
+    <component id="n52_wpcs" name="n52" src="gjs2s" xy="-89,0" group="n53_wpcs">
+      <Button controller="Position" page="0"/>
+    </component>
+    <group id="n53_wpcs" name="n53" xy="-440,0" size="436,686" advanced="true">
+      <gearXY controller="Position" pages="0,1" values="-440,0|1,0" tween="true"/>
+    </group>
+    <image id="n54_wpcs" name="n54" src="gjs2v" xy="2,687"/>
+    <component id="n55_wpcs" name="n55" src="gjs2w" xy="97,692"/>
+    <component id="n56_wpcs" name="n56" src="gjs2z" xy="4,689">
+      <Button checked="true" controller="Position" page="0"/>
+    </component>
+    <image id="n59_fxbk" name="n59" src="gjs212" xy="-316,142" group="n61_fxbk"/>
+    <image id="n60_fxbk" name="n60" src="gjs213" xy="-308,129" group="n61_fxbk"/>
+    <group id="n61_fxbk" name="n61" xy="-316,129" size="245,46" group="n66_fxbk"/>
+    <component id="n62_fxbk" name="n62" src="gjs214" xy="-418,95" group="n66_fxbk"/>
+    <text id="n63_fxbk" name="n63" xy="-308,101" size="113,28" group="n66_fxbk" font="微软雅黑" fontSize="18" color="#292c3d" text="堕落的柴犬君"/>
+    <text id="n64_fxbk" name="n64" xy="-298,135" size="75,31" group="n66_fxbk" font="微软雅黑" fontSize="20" color="#292c3d" text="汪汪汪··"/>
+    <group id="n66_fxbk" name="n66" xy="-418,95" size="347,83" advanced="true">
+      <gearXY controller="Position" pages="0,1" values="-418,95|19,91" tween="true"/>
+    </group>
+  </displayList>
+</component>

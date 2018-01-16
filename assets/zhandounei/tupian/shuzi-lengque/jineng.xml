@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="128,127">
+  <displayList>
+    <image id="n29_h41a" name="n29" src="bptw6" xy="1,0"/>
+    <image id="n30_h41a" name="n30" src="bptw8" xy="1,0" hideByEditor="true"/>
+    <image id="n31_h41a" name="n31" src="bptwf" xy="0,0" hideByEditor="true"/>
+    <text id="n33_h41a" name="n33" xy="13,41" size="103,40" hideByEditor="true" font="ui://f432uxfih41a4u" fontSize="16" color="#999999" align="center" leading="0" letterSpacing="-10" autoSize="none" text="22"/>
+    <image id="n32_h41a" name="n32" src="bptwk" xy="62,16" hideByEditor="true"/>
+  </displayList>
+</component>

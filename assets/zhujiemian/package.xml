@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="dmvx922f" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="wpcs0" name="btn_anniu.png" path="/image/"/>
+    <image id="wpcs1" name="btn_anniu2.png" path="/image/"/>
+    <image id="wpcs2" name="btn_duiwu.png" path="/image/"/>
+    <image id="wpcs3" name="btn_duiwu3.png" path="/image/"/>
+    <image id="wpcs4" name="btn_guanbi.png" path="/image/"/>
+    <image id="wpcs5" name="btn_guanbi2.png" path="/image/"/>
+    <image id="wpcs6" name="btn_haoyou.png" path="/image/"/>
+    <image id="wpcs7" name="btn_haoyou2.png" path="/image/"/>
+    <image id="wpcs8" name="btn_jia.png" path="/image/"/>
+    <image id="wpcs9" name="btn_jia2.png" path="/image/"/>
+    <image id="wpcsa" name="btn_jineng.png" path="/image/"/>
+    <image id="wpcsb" name="btn_jineng2.png" path="/image/"/>
+    <image id="wpcsc" name="btn_shijie.png" path="/image/"/>
+    <image id="wpcsd" name="btn_shijie3.png" path="/image/"/>
+    <image id="wpcse" name="btn_siliao.png" path="/image/"/>
+    <image id="wpcsf" name="btn_siliao3.png" path="/image/"/>
+    <image id="wpcsg" name="btn_youjian.png" path="/image/"/>
+    <image id="wpcsh" name="btn_youjian2.png" path="/image/"/>
+    <image id="wpcsj" name="img_di.png" path="/image/"/>
+    <image id="wpcsk" name="img_dianliang.png" path="/image/"/>
+    <image id="wpcsl" name="img_jinbi.png" path="/image/"/>
+    <image id="wpcsm" name="img_jingyantiao.png" path="/image/"/>
+    <image id="wpcso" name="img_liaotianjiao.png" path="/image/"/>
+    <image id="wpcsp" name="img_liaotiantiao.png" path="/image/"/>
+    <image id="wpcsq" name="img_lijuan.png" path="/image/"/>
+    <image id="wpcsr" name="img_ren.png" path="/image/"/>
+    <image id="wpcss" name="img_rongyaohuangjin.png" path="/image/"/>
+    <image id="wpcsu" name="img_touxiangkuang.png" path="/image/"/>
+    <image id="wpcsv" name="img_wifi.png" path="/image/"/>
+    <image id="wpcsw" name="img_zuanshi.png" path="/image/"/>
+    <image id="wpcsx" name="btn_baoxiang.png" path="/image/"/>
+    <image id="wpcsy" name="btn_baoxiang2.png" path="/image/"/>
+    <image id="wpcsz" name="btn_paiwei.png" path="/image/"/>
+    <image id="wpcs10" name="btn_paiwei2.png" path="/image/"/>
+    <image id="wpcs11" name="btn_pipei.png" path="/image/"/>
+    <image id="wpcs12" name="btn_pipei2.png" path="/image/"/>
+    <image id="wpcs13" name="btn_shangcheng.png" path="/image/"/>
+    <image id="wpcs14" name="btn_shangcheng2.png" path="/image/"/>
+    <component id="wpcs15" name="HomeStage.xml" path="/" exported="true"/>
+    <image id="wpcs16" name="cankao.png" path="/image/"/>
+    <component id="wpcs17" name="加.xml" path="/"/>
+    <font id="wpcs18" name="金币数字.fnt" path="/" exported="true"/>
+    <image id="wpcs19" name="img_5.png" path="/image/"/>
+    <image id="wpcs1a" name="img_6.png" path="/image/"/>
+    <image id="wpcs1b" name="img_7.png" path="/image/"/>
+    <image id="wpcs1c" name="img_8.png" path="/image/"/>
+    <image id="wpcs1d" name="img_9.png" path="/image/"/>
+    <image id="wpcs1e" name="img_0.png" path="/image/"/>
+    <image id="wpcs1f" name="img_1.png" path="/image/"/>
+    <image id="wpcs1g" name="img_2.png" path="/image/"/>
+    <image id="wpcs1h" name="img_3.png" path="/image/"/>
+    <image id="wpcs1i" name="img_4.png" path="/image/"/>
+    <component id="wpcs1j" name="橙色按钮.xml" path="/"/>
+    <component id="wpcs1k" name="MailBtn.xml" path="/"/>
+    <component id="wpcs1l" name="haoyou.xml" path="/"/>
+    <component id="wpcs1m" name="技能.xml" path="/"/>
+    <component id="wpcs1o" name="宝箱.xml" path="/"/>
+    <component id="wpcs1p" name="排位.xml" path="/"/>
+    <component id="wpcs1q" name="商城.xml" path="/"/>
+    <component id="wpcs1r" name="匹配.xml" path="/"/>
+    <image id="wpcs1s" name="btn_qingshuru.png" path="/image/"/>
+    <image id="wpcs1t" name="btn_qingshuru2.png" path="/image/"/>
+    <image id="wpcs1u" name="img_liaotian_tiao.png" path="/image/"/>
+    <image id="wpcs1v" name="btn_liaotian.png" path="/image/"/>
+    <image id="wpcs1w" name="btn_liaotian2.png" path="/image/"/>
+    <component id="wpcs1x" name="聊天按钮.xml" path="/"/>
+    <component id="wpcs1y" name="请输入.xml" path="/"/>
+    <font id="wpcs1z" name="等级数字.fnt" path="/" exported="true"/>
+    <image id="wpcs20" name="img_0(1).png" path="/image/"/>
+    <image id="wpcs21" name="img_1(1).png" path="/image/"/>
+    <image id="wpcs22" name="img_2(1).png" path="/image/"/>
+    <image id="wpcs23" name="img_3(1).png" path="/image/"/>
+    <image id="wpcs24" name="img_4(1).png" path="/image/"/>
+    <image id="wpcs25" name="img_5(1).png" path="/image/"/>
+    <image id="wpcs26" name="img_6(1).png" path="/image/"/>
+    <image id="wpcs27" name="img_7(1).png" path="/image/"/>
+    <image id="wpcs28" name="img_8(1).png" path="/image/"/>
+    <image id="wpcs29" name="img_9(1).png" path="/image/"/>
+    <image id="wpcs2a" name="img_xie.png" path="/image/"/>
+    <image id="wpcs2c" name="img_touxiang.png" path="/image/"/>
+    <image id="wpcs2d" name="img_liaotian(1).png" path="/image/"/>
+    <component id="wpcs2e" name="世界.xml" path="/"/>
+    <component id="wpcs2f" name="队伍.xml" path="/"/>
+    <component id="wpcs2g" name="私聊.xml" path="/"/>
+    <component id="wpcs2h" name="guanbi.xml" path="/"/>
+    <component id="wpcs2i" name="ChatView.xml" path="/" exported="true"/>
+    <component id="fxbk2j" name="头像框.xml" path="/"/>
+    <image id="fxbk2k" name="img_beijing(1).jpg" path="/image/"/>
+    <image id="fxbk2l" name="img_mao.png" path="/image/"/>
+    <component id="lr862m" name="RightBar.xml" path="/" exported="true"/>
+  </resources>
+  <publish name="zhujiemian" genCode="true"/>
+</packageDescription>

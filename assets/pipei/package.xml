@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="ksd3z9tl" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="rb2o0" name="MatchWaitingStage.xml" path="/" exported="true"/>
+    <image id="rb2o1" name="匹配.png" path="/tupian/"/>
+    <image id="rb2o2" name="img-di.png" path="/tupian/" qualityOption="source"/>
+    <image id="rb2o3" name="img-heisezhezhao.png" path="/tupian/" scale="9grid" scale9grid="5,5,10,10" qualityOption="source"/>
+    <image id="rb2o4" name="img-kaishi.png" path="/tupian/" qualityOption="source"/>
+    <image id="rb2o5" name="img-pipei.png" path="/tupian/" qualityOption="source"/>
+    <image id="rb2o6" name="img-tiaowen.png" path="/tupian/"/>
+    <image id="rb2o7" name="img-touxiang.png" path="/tupian/" qualityOption="source"/>
+    <component id="rb2o8" name="Button1.xml" path="/"/>
+    <image id="rb2o9" name="btn-daanniu0.png" path="/tupian/"/>
+    <image id="rb2oa" name="btn-daanniu1.png" path="/tupian/"/>
+    <image id="rb2ob" name="img-daojishi.png" path="/tupian/" qualityOption="source"/>
+    <image id="rb2oc" name="maohao.png" path="/tupian/shuzi/" qualityOption="source"/>
+    <image id="rb2od" name="img-suoding.png" path="/tupian/"/>
+    <image id="rb2oe" name="img-queding.png" path="/tupian/"/>
+  </resources>
+  <publish name="pipei" genCode="true"/>
+</packageDescription>

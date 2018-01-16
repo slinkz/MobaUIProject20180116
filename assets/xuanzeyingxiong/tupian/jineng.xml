@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="307,185">
+  <displayList>
+    <image id="n13_rb2o" name="n13" src="rb2oj" xy="0,79"/>
+    <image id="n14_rb2o" name="n14" src="rb2oj" xy="202,79"/>
+    <image id="n15_rb2o" name="n15" src="rb2oj" xy="104,75"/>
+    <image id="n16_rb2o" name="n16" src="rb2oq" xy="63,0"/>
+    <image id="n17_rb2o" name="n17" src="rb2oq" xy="161,0"/>
+    <image id="n18_rb2o" name="n18" src="rb2oo" xy="188,53"/>
+    <image id="n19_rb2o" name="n19" src="rb2of" xy="37,153"/>
+    <image id="n20_rb2o" name="n20" src="rb2oe" xy="140,148"/>
+  </displayList>
+</component>

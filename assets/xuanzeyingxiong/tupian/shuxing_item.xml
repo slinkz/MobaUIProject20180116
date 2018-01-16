@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="134,44" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n4_rb2o" name="n4" src="rb2oz" xy="0,0">
+      <relation target="" sidePair=""/>
+    </image>
+    <text id="n2" name="title" xy="0,0" size="134,44" fontSize="12" vAlign="middle" autoSize="none" singleLine="true" text="">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <loader id="n3_rb2o" name="icon" xy="41,10" size="84,31" color="#cccccc">
+      <relation target="" sidePair="right-right"/>
+    </loader>
+  </displayList>
+  <Button mode="Radio"/>
+</component>

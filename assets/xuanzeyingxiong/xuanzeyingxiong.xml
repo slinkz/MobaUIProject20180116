@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750" overflow="hidden" opaque="false" designImage="ui://kdeodi62rb2o0" designImageAlpha="0">
+  <controller name="IsHide" exported="true" pages="0,,1," selected="0"/>
+  <displayList>
+    <component id="n0_rb2o" name="n0" src="rb2o16" xy="0,0" group="n25_kv89"/>
+    <image id="n2_rb2o" name="n2" src="rb2ol" xy="0,59" group="n25_kv89"/>
+    <component id="n3_rb2o" name="n3" src="rb2o3g" xy="122,123" group="n25_kv89">
+      <ComboBox visibleItemCount="10">
+        <item icon="ui://kdeodi62rb2o14"/>
+        <item icon="ui://kdeodi62rb2o12"/>
+        <item icon="ui://kdeodi62rb2o13"/>
+      </ComboBox>
+    </component>
+    <image id="n4_rb2o" name="n4" src="rb2o3h" xy="46,123" group="n25_kv89"/>
+    <list id="n5_rb2o" name="n5" xy="36,188" size="286,429" group="n25_kv89" layout="flow_hz" overflow="scroll" lineGap="4" colGap="2" defaultItem="ui://kdeodi62rb2o3i">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n6_rb2o" name="n6" src="rb2o3j" xy="391,370" group="n25_kv89" scale="-1,1"/>
+    <image id="n7_rb2o" name="n7" src="rb2oh" xy="945,394" group="n25_kv89"/>
+    <image id="n8_rb2o" name="n8" src="rb2od" xy="534,116" group="n25_kv89"/>
+    <component id="n9_rb2o" name="n9" src="rb2o3m" xy="967,638" group="n25_kv89">
+      <Button controller="IsHide" page="1"/>
+    </component>
+    <component id="n13_rb2o" name="n13" src="rb2o3p" xy="1011,198" group="n25_kv89"/>
+    <image id="n21_rb2o" name="n21" src="rb2ok" xy="769,475" group="n25_kv89"/>
+    <list id="n22_rb2o" name="n22" xy="903,499" size="473,116" group="n25_kv89" layout="flow_hz" overflow="scroll" colGap="-13" defaultItem="ui://kdeodi62rb2o3q">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <image id="n23_rb2o" name="n23" src="rb2op" xy="732,470" group="n25_kv89"/>
+    <component id="n24_rb2o" name="n24" src="rb2o3r" xy="845,482" group="n25_kv89"/>
+    <component id="n1_rb2o" name="n1" src="rb2o1k" xy="-2,-1" group="n25_kv89" controller="Position,0"/>
+    <group id="n25_kv89" name="n25" xy="-2,-1" size="1378,761" advanced="true">
+      <gearDisplay controller="IsHide" pages="0"/>
+    </group>
+  </displayList>
+</component>

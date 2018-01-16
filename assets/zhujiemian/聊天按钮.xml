@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="90,61" extention="Button">
+  <controller name="button" pages="0,up,1,down" selected="0"/>
+  <displayList>
+    <image id="n35_wpcs" name="n35" src="wpcs1w" xy="0,0">
+      <gearDisplay controller="button" pages="0"/>
+    </image>
+    <image id="n34_wpcs" name="n34" src="wpcs1v" xy="0,0">
+      <gearDisplay controller="button" pages="1"/>
+    </image>
+  </displayList>
+  <Button mode="Check"/>
+</component>

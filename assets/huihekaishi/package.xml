@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="21a888he" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="ppbs0" name="img-huihe.png" path="/tupian/"/>
+    <image id="ppbs1" name="img-huihekaishidi.png" path="/tupian/" scale="9grid" scale9grid="15,49,30,98" qualityOption="source"/>
+    <image id="ppbs2" name="0.png" path="/shuzi-huihe/"/>
+    <image id="ppbs3" name="1.png" path="/shuzi-huihe/"/>
+    <image id="ppbs4" name="2.png" path="/shuzi-huihe/"/>
+    <image id="ppbs5" name="3.png" path="/shuzi-huihe/"/>
+    <image id="ppbs6" name="4.png" path="/shuzi-huihe/"/>
+    <image id="ppbs7" name="5.png" path="/shuzi-huihe/"/>
+    <image id="ppbs8" name="6.png" path="/shuzi-huihe/"/>
+    <image id="ppbs9" name="7.png" path="/shuzi-huihe/"/>
+    <image id="ppbsa" name="8.png" path="/shuzi-huihe/"/>
+    <image id="ppbsb" name="9.png" path="/shuzi-huihe/"/>
+    <image id="ppbsc" name="00.png" path="/shuzi-daojishi/"/>
+    <image id="ppbsd" name="01.png" path="/shuzi-daojishi/"/>
+    <image id="ppbse" name="02.png" path="/shuzi-daojishi/"/>
+    <image id="ppbsf" name="03.png" path="/shuzi-daojishi/"/>
+    <image id="ppbsg" name="04.png" path="/shuzi-daojishi/"/>
+    <image id="ppbsh" name="05.png" path="/shuzi-daojishi/"/>
+    <image id="ppbsi" name="06.png" path="/shuzi-daojishi/"/>
+    <image id="ppbsj" name="07.png" path="/shuzi-daojishi/"/>
+    <image id="ppbsk" name="08.png" path="/shuzi-daojishi/"/>
+    <image id="ppbsl" name="09.png" path="/shuzi-daojishi/"/>
+    <image id="ppbsm" name="img-baixian.png" path="/tupian/" scale="" qualityOption="source"/>
+    <image id="ppbsn" name="img-daojishidi.png" path="/tupian/"/>
+    <image id="ppbso" name="img-sanjiao.png" path="/tupian/" scale="" qualityOption="source"/>
+    <image id="ppbsp" name="img-bodian.png" path="/tupian/"/>
+    <image id="ppbss" name="img-kaishizhandou.png" path="/tupian/"/>
+    <font id="ppbst" name="shuzi-huihe.fnt" path="/shuzi-huihe/" exported="true"/>
+    <font id="ppbsu" name="shuzi-daojishi.fnt" path="/shuzi-daojishi/" exported="true"/>
+    <component id="ppbsv" name="huihekaishi.xml" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="kdeodi62" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="rb2o0" name="选择英雄.png" path="/"/>
+    <component id="rb2o1" name="xuanzeyingxiong.xml" path="/" exported="true"/>
+    <image id="rb2o2" name="8.png" path="/tupian/shuzi/"/>
+    <image id="rb2o3" name="9.png" path="/tupian/shuzi/"/>
+    <image id="rb2o4" name="maohao.png" path="/tupian/shuzi/" qualityOption="source"/>
+    <image id="rb2o5" name="0.png" path="/tupian/shuzi/"/>
+    <image id="rb2o6" name="1.png" path="/tupian/shuzi/"/>
+    <image id="rb2o7" name="2.png" path="/tupian/shuzi/"/>
+    <image id="rb2o8" name="3.png" path="/tupian/shuzi/"/>
+    <image id="rb2o9" name="4.png" path="/tupian/shuzi/"/>
+    <image id="rb2oa" name="5.png" path="/tupian/shuzi/"/>
+    <image id="rb2ob" name="6.png" path="/tupian/shuzi/"/>
+    <image id="rb2oc" name="7.png" path="/tupian/shuzi/"/>
+    <image id="rb2od" name="img-moxing1.png" path="/tupian/" qualityOption="source"/>
+    <image id="rb2oe" name="img-bei.png" path="/tupian/"/>
+    <image id="rb2of" name="img-bi.png" path="/tupian/"/>
+    <image id="rb2og" name="img-daojishi.png" path="/tupian/" qualityOption="source"/>
+    <image id="rb2oh" name="img-sunshangxiang.png" path="/tupian/" qualityOption="source"/>
+    <image id="rb2oi" name="img-suoding.png" path="/tupian/"/>
+    <image id="rb2oj" name="img-datubiao.png" path="/tupian/"/>
+    <image id="rb2ok" name="img-duiyoudi.png" path="/tupian/"/>
+    <image id="rb2ol" name="img-tongyongdi.jpg" path="/tupian/"/>
+    <image id="rb2om" name="img-touxiangkuang.png" path="/tupian/"/>
+    <image id="rb2on" name="img-xuanzhongkuang.png" path="/tupian/"/>
+    <image id="rb2oo" name="img-zhao.png" path="/tupian/"/>
+    <image id="rb2op" name="img-zijitouxiang.png" path="/tupian/"/>
+    <image id="rb2oq" name="img-xiaotubiao.png" path="/tupian/"/>
+    <image id="rb2or" name="btn-daanniu0.png" path="/tupian/"/>
+    <image id="rb2os" name="btn-daanniu1.png" path="/tupian/"/>
+    <image id="rb2ot" name="btn-duiyou0.png" path="/tupian/"/>
+    <image id="rb2ou" name="btn-duiyou1.png" path="/tupian/"/>
+    <image id="rb2ov" name="btn-guanbi0.png" path="/tupian/"/>
+    <image id="rb2ow" name="btn-guanbi1.png" path="/tupian/"/>
+    <image id="rb2ox" name="img-shuxing.jpg" path="/tupian/"/>
+    <image id="rb2oy" name="img-jiantouxia.png" path="/tupian/"/>
+    <image id="rb2oz" name="img-xiala.png" path="/tupian/"/>
+    <image id="rb2o10" name="img-xialahei.png" path="/tupian/"/>
+    <image id="rb2o11" name="img-xuanze.png" path="/tupian/" qualityOption="source"/>
+    <image id="rb2o12" name="img-cike.png" path="/tupian/"/>
+    <image id="rb2o13" name="img-fashi.png" path="/tupian/"/>
+    <image id="rb2o14" name="img-fuzhu.png" path="/tupian/"/>
+    <image id="rb2o15" name="img-tanke.png" path="/tupian/"/>
+    <component id="rb2o16" name="tou.xml" path="/"/>
+    <image id="rb2o17" name="img_tiao(1).png" path="/" qualityOption="source"/>
+    <component id="rb2o18" name="返回.xml" path="/"/>
+    <image id="rb2o19" name="img_fanhui.png" path="/"/>
+    <image id="rb2o1a" name="img_di(1).png" path="/"/>
+    <image id="rb2o1b" name="img_jinbi.png" path="/"/>
+    <component id="rb2o1c" name="加.xml" path="/"/>
+    <image id="rb2o1d" name="btn_jia.png" path="/"/>
+    <image id="rb2o1e" name="btn_jia2.png" path="/"/>
+    <image id="rb2o1f" name="img_zuanshi.png" path="/"/>
+    <image id="rb2o1g" name="img_lijuan.png" path="/"/>
+    <image id="rb2o1h" name="img_dianliang.png" path="/"/>
+    <image id="rb2o1i" name="img_wifi.png" path="/"/>
+    <image id="rb2o1j" name="img_xuanzeditu.png" path="/"/>
+    <component id="rb2o1k" name="聊天.xml" path="/"/>
+    <image id="rb2o1l" name="img_liaotian(1).png" path="/"/>
+    <component id="rb2o1m" name="世界.xml" path="/"/>
+    <image id="rb2o1n" name="btn_shijie.png" path="/"/>
+    <image id="rb2o1o" name="btn_shijie3.png" path="/"/>
+    <component id="rb2o1p" name="队伍.xml" path="/"/>
+    <image id="rb2o1q" name="btn_duiwu.png" path="/"/>
+    <image id="rb2o1r" name="btn_duiwu3.png" path="/"/>
+    <component id="rb2o1s" name="私聊.xml" path="/"/>
+    <image id="rb2o1t" name="btn_siliao.png" path="/"/>
+    <image id="rb2o1u" name="btn_siliao3.png" path="/"/>
+    <component id="rb2o1v" name="guanbi.xml" path="/"/>
+    <image id="rb2o1w" name="btn_guanbi.png" path="/"/>
+    <image id="rb2o1x" name="btn_guanbi2.png" path="/"/>
+    <image id="rb2o1y" name="img_liaotian_tiao.png" path="/"/>
+    <component id="rb2o1z" name="请输入.xml" path="/"/>
+    <image id="rb2o20" name="btn_qingshuru.png" path="/"/>
+    <image id="rb2o21" name="btn_qingshuru2.png" path="/"/>
+    <component id="rb2o22" name="聊天按钮.xml" path="/"/>
+    <image id="rb2o23" name="btn_liaotian2.png" path="/"/>
+    <image id="rb2o24" name="btn_liaotian.png" path="/"/>
+    <image id="rb2o25" name="img_liaotianjiao.png" path="/"/>
+    <image id="rb2o26" name="img_liaotiantiao.png" path="/"/>
+    <component id="rb2o27" name="头像框.xml" path="/"/>
+    <image id="rb2o28" name="img_touxiangkuang.png" path="/"/>
+    <image id="rb2o29" name="img_mao.png" path="/"/>
+    <component id="rb2o2a" name="主界面.xml" path="/"/>
+    <image id="rb2o2b" name="img_beijing(1).jpg" path="/"/>
+    <image id="rb2o2c" name="img_di(2).png" path="/"/>
+    <image id="rb2o2d" name="img_dianliang(1).png" path="/"/>
+    <image id="rb2o2e" name="img_jinbi(1).png" path="/"/>
+    <image id="rb2o2f" name="img_jingyantiao.png" path="/"/>
+    <image id="rb2o2g" name="img_lijuan(1).png" path="/"/>
+    <image id="rb2o2h" name="img_ren.png" path="/"/>
+    <image id="rb2o2i" name="img_rongyaohuangjin.png" path="/"/>
+    <image id="rb2o2j" name="img_wifi(1).png" path="/"/>
+    <image id="rb2o2k" name="img_zuanshi(1).png" path="/"/>
+    <component id="rb2o2l" name="加(1).xml" path="/"/>
+    <image id="rb2o2m" name="btn_jia(1).png" path="/"/>
+    <image id="rb2o2n" name="btn_jia2(1).png" path="/"/>
+    <component id="rb2o2o" name="MailBtn.xml" path="/"/>
+    <image id="rb2o2p" name="btn_youjian2.png" path="/"/>
+    <image id="rb2o2q" name="btn_youjian.png" path="/"/>
+    <component id="rb2o2r" name="haoyou.xml" path="/"/>
+    <image id="rb2o2s" name="btn_haoyou2.png" path="/"/>
+    <image id="rb2o2t" name="btn_haoyou.png" path="/"/>
+    <component id="rb2o2u" name="技能.xml" path="/"/>
+    <image id="rb2o2v" name="btn_jineng2.png" path="/"/>
+    <image id="rb2o2w" name="btn_jineng.png" path="/"/>
+    <component id="rb2o2x" name="橙色按钮.xml" path="/"/>
+    <image id="rb2o2y" name="btn_anniu.png" path="/"/>
+    <image id="rb2o2z" name="btn_anniu2.png" path="/"/>
+    <image id="rb2o30" name="img_touxiang.png" path="/"/>
+    <component id="rb2o31" name="宝箱.xml" path="/"/>
+    <image id="rb2o32" name="btn_baoxiang.png" path="/"/>
+    <image id="rb2o33" name="btn_baoxiang2.png" path="/"/>
+    <component id="rb2o34" name="排位.xml" path="/"/>
+    <image id="rb2o35" name="btn_paiwei.png" path="/"/>
+    <image id="rb2o36" name="btn_paiwei2.png" path="/"/>
+    <component id="rb2o37" name="商城.xml" path="/"/>
+    <image id="rb2o38" name="btn_shangcheng.png" path="/"/>
+    <image id="rb2o39" name="btn_shangcheng2.png" path="/"/>
+    <component id="rb2o3a" name="匹配.xml" path="/"/>
+    <image id="rb2o3b" name="btn_pipei.png" path="/"/>
+    <image id="rb2o3c" name="btn_pipei2.png" path="/"/>
+    <image id="rb2o3d" name="cankao.png" path="/"/>
+    <component id="rb2o3e" name="shuxing_item.xml" path="/tupian/"/>
+    <component id="rb2o3f" name="shuxing_popup.xml" path="/tupian/"/>
+    <component id="rb2o3g" name="shuxing.xml" path="/tupian/" exported="true"/>
+    <image id="rb2o3h" name="img-shuxing_01.png" path="/tupian/"/>
+    <component id="rb2o3i" name="touxiang1.xml" path="/tupian/"/>
+    <component id="rb2o3j" name="btn-shouqi.xml" path="/"/>
+    <image id="rb2o3k" name="btn-shouqi0.png" path="/tupian/btn/" qualityOption="source"/>
+    <image id="rb2o3l" name="btn-shouqi1.png" path="/tupian/btn/" qualityOption="source"/>
+    <component id="rb2o3m" name="Button1.xml" path="/"/>
+    <font id="rb2o3n" name="Font1.fnt" path="/tupian/shuzi/" exported="true"/>
+    <component id="rb2o3o" name="suoding.xml" path="/tupian/"/>
+    <component id="rb2o3p" name="jineng.xml" path="/tupian/"/>
+    <component id="rb2o3q" name="btn-duiyoutouxiang.xml" path="/tupian/"/>
+    <component id="rb2o3r" name="btn-guanbi.xml" path="/tupian/"/>
+  </resources>
+  <publish name="xuanzeyingxiong"/>
+</packageDescription>

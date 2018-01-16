@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="b3rphb01" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="gjs22" name="img_5v5.png" path="/"/>
+    <image id="gjs24" name="img_di.png" path="/"/>
+    <image id="gjs25" name="img_fanhui.png" path="/"/>
+    <component id="gjs26" name="ChooseMapStage.xml" path="/" exported="true"/>
+    <image id="gjs27" name="img_tiao(1).png" path="/"/>
+    <image id="gjs28" name="img_di(1).png" path="/"/>
+    <image id="gjs29" name="img_jinbi.png" path="/"/>
+    <component id="gjs2a" name="加.xml" path="/"/>
+    <image id="gjs2b" name="btn_jia.png" path="/"/>
+    <image id="gjs2c" name="btn_jia2.png" path="/"/>
+    <image id="gjs2d" name="img_zuanshi.png" path="/"/>
+    <image id="gjs2e" name="img_lijuan.png" path="/"/>
+    <image id="gjs2f" name="img_dianliang.png" path="/"/>
+    <image id="gjs2g" name="img_wifi.png" path="/"/>
+    <component id="gjs2h" name="聊天.xml" path="/"/>
+    <image id="gjs2i" name="img_liaotian(1).png" path="/" scale="9grid" scale9grid="109,172,218,344"/>
+    <component id="gjs2j" name="世界.xml" path="/"/>
+    <image id="gjs2k" name="btn_shijie.png" path="/"/>
+    <image id="gjs2l" name="btn_shijie3.png" path="/"/>
+    <component id="gjs2m" name="队伍.xml" path="/"/>
+    <image id="gjs2n" name="btn_duiwu.png" path="/"/>
+    <image id="gjs2o" name="btn_duiwu3.png" path="/"/>
+    <component id="gjs2p" name="私聊.xml" path="/"/>
+    <image id="gjs2q" name="btn_siliao.png" path="/"/>
+    <image id="gjs2r" name="btn_siliao3.png" path="/"/>
+    <component id="gjs2s" name="guanbi.xml" path="/"/>
+    <image id="gjs2t" name="btn_guanbi.png" path="/"/>
+    <image id="gjs2u" name="btn_guanbi2.png" path="/"/>
+    <image id="gjs2v" name="img_liaotian_tiao.png" path="/"/>
+    <component id="gjs2w" name="请输入.xml" path="/"/>
+    <image id="gjs2x" name="btn_qingshuru.png" path="/"/>
+    <image id="gjs2y" name="btn_qingshuru2.png" path="/"/>
+    <component id="gjs2z" name="聊天按钮.xml" path="/"/>
+    <image id="gjs210" name="btn_liaotian2.png" path="/"/>
+    <image id="gjs211" name="btn_liaotian.png" path="/"/>
+    <image id="gjs212" name="img_liaotianjiao.png" path="/"/>
+    <image id="gjs213" name="img_liaotiantiao.png" path="/"/>
+    <component id="gjs214" name="头像框.xml" path="/"/>
+    <image id="gjs215" name="img_touxiangkuang.png" path="/"/>
+    <image id="gjs216" name="img_mao.png" path="/"/>
+    <component id="gjs217" name="主界面.xml" path="/"/>
+    <image id="gjs218" name="img_beijing(1).jpg" path="/"/>
+    <image id="gjs219" name="img_di(2).png" path="/"/>
+    <image id="gjs21a" name="img_dianliang(1).png" path="/"/>
+    <image id="gjs21b" name="img_jinbi(1).png" path="/"/>
+    <image id="gjs21c" name="img_jingyantiao.png" path="/"/>
+    <image id="gjs21d" name="img_lijuan(1).png" path="/"/>
+    <image id="gjs21e" name="img_ren.png" path="/"/>
+    <image id="gjs21f" name="img_rongyaohuangjin.png" path="/"/>
+    <image id="gjs21g" name="img_wifi(1).png" path="/"/>
+    <image id="gjs21h" name="img_zuanshi(1).png" path="/"/>
+    <component id="gjs21i" name="加(1).xml" path="/"/>
+    <image id="gjs21j" name="btn_jia(1).png" path="/"/>
+    <image id="gjs21k" name="btn_jia2(1).png" path="/"/>
+    <component id="gjs21l" name="MailBtn.xml" path="/"/>
+    <image id="gjs21m" name="btn_youjian2.png" path="/"/>
+    <image id="gjs21n" name="btn_youjian.png" path="/"/>
+    <component id="gjs21o" name="haoyou.xml" path="/"/>
+    <image id="gjs21p" name="btn_haoyou2.png" path="/"/>
+    <image id="gjs21q" name="btn_haoyou.png" path="/"/>
+    <component id="gjs21r" name="技能.xml" path="/"/>
+    <image id="gjs21s" name="btn_jineng2.png" path="/"/>
+    <image id="gjs21t" name="btn_jineng.png" path="/"/>
+    <component id="gjs21u" name="橙色按钮.xml" path="/"/>
+    <image id="gjs21v" name="btn_anniu.png" path="/"/>
+    <image id="gjs21w" name="btn_anniu2.png" path="/"/>
+    <image id="gjs21x" name="img_touxiang.png" path="/"/>
+    <component id="gjs21y" name="宝箱.xml" path="/"/>
+    <image id="gjs21z" name="btn_baoxiang.png" path="/"/>
+    <image id="gjs220" name="btn_baoxiang2.png" path="/"/>
+    <component id="gjs221" name="排位.xml" path="/"/>
+    <image id="gjs222" name="btn_paiwei.png" path="/"/>
+    <image id="gjs223" name="btn_paiwei2.png" path="/"/>
+    <component id="gjs224" name="商城.xml" path="/"/>
+    <image id="gjs225" name="btn_shangcheng.png" path="/"/>
+    <image id="gjs226" name="btn_shangcheng2.png" path="/"/>
+    <component id="gjs227" name="匹配.xml" path="/"/>
+    <image id="gjs228" name="btn_pipei.png" path="/"/>
+    <image id="gjs229" name="btn_pipei2.png" path="/"/>
+    <image id="gjs22a" name="cankao.png" path="/"/>
+    <component id="gjs22b" name="返回.xml" path="/"/>
+    <component id="gjs22c" name="5v5.xml" path="/"/>
+    <component id="gjs22d" name="3v3.xml" path="/"/>
+    <image id="gjs22e" name="img_3v3(1).png" path="/"/>
+    <image id="gjs22f" name="img_1v1(1).png" path="/"/>
+    <component id="gjs22g" name="1v1.xml" path="/"/>
+    <image id="gjs22h" name="img_xuanzeditu.png" path="/"/>
+    <component id="rb2o2i" name="tou.xml" path="/"/>
+  </resources>
+  <publish name="xuanzeditu" genCode="true"/>
+</packageDescription>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="442,64">
+  <displayList>
+    <image id="n10_bptw" name="n10" src="bptw2" xy="0,0"/>
+    <component id="n11_bptw" name="n11" src="bptw4m" xy="396,10"/>
+    <component id="n12_bptw" name="n12" src="bptw4n" xy="337,10"/>
+    <image id="n13_bptw" name="n13" src="bptw4" xy="173,28"/>
+    <image id="n14_bptw" name="n14" src="bptwe" xy="229,28"/>
+    <image id="n15_bptw" name="n15" src="bptw0" xy="284,28"/>
+    <text id="n16_bptw" name="n16" xy="184,31" size="53,18" font="ui://f432uxfibptw4o" fontSize="12" align="center" leading="0" autoSize="none" text="0"/>
+    <text id="n17_bptw" name="n17" xy="239,31" size="53,18" font="ui://f432uxfibptw4o" fontSize="12" align="center" leading="0" autoSize="none" text="0"/>
+    <text id="n18_bptw" name="n18" xy="293,31" size="53,18" font="ui://f432uxfibptw4o" fontSize="12" align="center" leading="0" autoSize="none" text="0"/>
+    <component id="n19_h41a" name="n19" src="h41a4q" xy="219,4"/>
+    <image id="n22_h41a" name="n22" src="bptw3" xy="291,5"/>
+    <image id="n23_h41a" name="n23" src="bptw9" xy="294,8" size="15,12"/>
+    <image id="n24_h41a" name="n24" src="bptwg" xy="77,37"/>
+    <text id="n25_h41a" name="n25" xy="98,20" size="62,30" font="ui://f432uxfih41a4r" fontSize="12" align="center" leading="0" letterSpacing="-5" autoSize="none" text="0"/>
+    <text id="n26_h41a" name="n26" xy="16,20" size="62,30" font="ui://f432uxfih41a4s" fontSize="12" align="center" leading="0" letterSpacing="-5" autoSize="none" text="0"/>
+    <image id="n27_h41a" name="n27" src="bptwd" xy="56,5"/>
+    <text id="n28_h41a" name="n28" xy="75,3" size="47,25" font="微软雅黑" fontSize="16" color="#999999" leading="0" text="00:28"/>
+  </displayList>
+</component>

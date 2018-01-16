@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="2c4x3wmv" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="ppbs0" name="img-di.png" path="/tupian/" qualityOption="source"/>
+    <image id="ppbs2" name="img-zhandou.png" path="/tupian/" qualityOption="source"/>
+    <image id="ppbs4" name="img-shengli.png" path="/tupian/" qualityOption="source"/>
+    <image id="ppbs5" name="img-xiegang.png" path="/tupian/" qualityOption="source"/>
+    <image id="ppbs6" name="img-dianjijixu.png" path="/tupian/"/>
+    <component id="ppbs7" name="zhandoushengli.xml" path="/" exported="true"/>
+    <image id="ppbs8" name="img-di1.png" path="/tupian/" qualityOption="source"/>
+    <image id="ppbs9" name="大胜利.jpg" path="/tupian/"/>
+    <image id="ppbsa" name="img-zhandoushenglidi.png" path="/tupian/" qualityOption="source"/>
+  </resources>
+  <publish name="zhandoushengli"/>
+</packageDescription>

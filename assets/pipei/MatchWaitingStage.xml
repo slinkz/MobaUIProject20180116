@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750" opaque="false" designImage="ui://ksd3z9tlrb2o1" designImageAlpha="0">
+  <displayList>
+    <graph id="n9_kv89" name="n9" xy="0,0" size="1334,750" type="rect" fillColor="#ff000000"/>
+    <image id="n0_rb2o" name="n0" src="rb2o3" xy="0,0" size="1334,750"/>
+    <image id="n1_rb2o" name="n1" src="rb2o2" xy="0,147"/>
+    <image id="n4_rb2o" name="n4" src="rb2o6" xy="-5,108"/>
+    <image id="n2_rb2o" name="n2" src="rb2o4" xy="71,41"/>
+    <image id="n3_rb2o" name="n3" src="rb2o5" xy="313,123"/>
+    <list id="n5_rb2o" name="n5" xy="210,225" size="842,126" layout="flow_hz" overflow="scroll" colGap="41" defaultItem="ui://ksd3z9tlrb2o7" vAlign="middle">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n6_rb2o" name="n6" xy="369,375" size="842,126" layout="flow_hz" overflow="scroll" colGap="41" defaultItem="ui://ksd3z9tlrb2o7" vAlign="middle">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n7_rb2o" name="OKButton" src="rb2o8" xy="966,571">
+      <Button page="1"/>
+    </component>
+  </displayList>
+</component>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="82,72" extention="Button">
+  <controller name="button" pages="0,up,1,down" selected="0"/>
+  <displayList>
+    <image id="n55_wpcs" name="n55" src="rb2or" xy="0,0">
+      <gearDisplay controller="button" pages="0"/>
+    </image>
+    <image id="n56_wpcs" name="n56" src="rb2os" xy="0,0">
+      <gearDisplay controller="button" pages="1"/>
+    </image>
+  </displayList>
+  <Button/>
+</component>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750" opaque="false" designImage="ui://f432uxfibptw3d" designImageAlpha="0">
+  <controller name="IsHide" exported="true" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n0_bptw" name="n0" src="bptw3f" xy="0,0" group="n61_kv89" locked="true"/>
+    <component id="n3_bptw" name="n3" src="bptw4f" xy="1147,555" group="n61_kv89"/>
+    <component id="n4_bptw" name="n4" src="bptw4g" xy="1290,341" group="n61_kv89"/>
+    <component id="n5_bptw" name="n5" src="bptw4h" xy="1282,268" group="n61_kv89">
+      <Button controller="IsHide" page="1"/>
+    </component>
+    <component id="n6_bptw" name="n6" src="bptw4i" xy="1282,203" group="n61_kv89"/>
+    <component id="n7_bptw" name="n7" src="bptw4j" xy="1282,138" group="n61_kv89"/>
+    <component id="n9_bptw" name="n9" src="bptw4l" xy="1282,73" group="n61_kv89"/>
+    <component id="n10_bptw" name="n10" src="h41a4t" xy="892,0" group="n61_kv89"/>
+    <component id="n29_h41a" name="n29" src="h41a4v" xy="1156,378" group="n61_kv89"/>
+    <component id="n34_h41a" name="n34" src="h41a4v" xy="1016,458" group="n61_kv89"/>
+    <component id="n35_h41a" name="n35" src="h41a4w" xy="964,597" group="n61_kv89"/>
+    <component id="n40_h41a" name="n40" src="h41a4x" xy="860,630" group="n61_kv89"/>
+    <component id="n41_h41a" name="n41" src="h41a4y" xy="756,630" group="n61_kv89"/>
+    <image id="n42_h41a" name="n42" src="bptwi" xy="32,475" group="n61_kv89"/>
+    <component id="n43_h41a" name="n43" src="h41a4z" xy="110,553" group="n61_kv89"/>
+    <component id="n46_h41a" name="n46" src="md8u57" xy="-4,-4" group="n61_kv89"/>
+    <component id="n50_md8u" name="n50" src="md8u58" xy="250,149" group="n61_kv89"/>
+    <component id="n51_md8u" name="n51" src="md8u59" xy="250,109" group="n61_kv89"/>
+    <list id="n56_md8u" name="n56" xy="242,1" size="258,52" group="n61_kv89" layout="flow_hz" overflow="scroll" colGap="-2" defaultItem="ui://f432uxfimd8u5a">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n60_ppbs" name="n60" xy="242,52" size="258,52" group="n61_kv89" layout="flow_hz" overflow="scroll" colGap="-2" defaultItem="ui://f432uxfippbs5c">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n44_h41a" name="n44" src="h41a52" xy="-9,270" group="n61_kv89"/>
+    <group id="n61_kv89" name="n61" xy="-9,-4" size="1343,754" advanced="true">
+      <gearDisplay controller="IsHide" pages="0"/>
+    </group>
+  </displayList>
+</component>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="50,50">
+  <displayList>
+    <image id="n57_ppbs" name="n57" src="bptwc" xy="5,4"/>
+    <text id="n58_ppbs" name="n58" xy="-7,23" size="65,24" font="ui://f432uxfippbs5b" fontSize="12" align="center" letterSpacing="-11" autoSize="none" text="9"/>
+  </displayList>
+</component>

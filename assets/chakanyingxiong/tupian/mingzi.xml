@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="444,116">
+  <displayList>
+    <image id="n6_rb2o" name="n6" src="rb2o2f" xy="0,0"/>
+    <image id="n7_rb2o" name="n7" src="rb2o2e" xy="56,18"/>
+  </displayList>
+</component>

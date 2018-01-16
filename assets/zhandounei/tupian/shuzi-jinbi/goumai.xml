@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="114,125">
+  <displayList>
+    <component id="n44_h41a" name="n44" src="h41a50" xy="11,0"/>
+    <text id="n45_h41a" name="n45" xy="0,81" size="115,40" font="ui://f432uxfih41a51" fontSize="16" color="#999999" align="center" leading="0" letterSpacing="-7" autoSize="none" text="156"/>
+  </displayList>
+</component>

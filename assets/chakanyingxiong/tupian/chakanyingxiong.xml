@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750" designImage="ui://kohdysworb2o2a" designImageAlpha="0">
+  <displayList>
+    <component id="n0_rb2o" name="n0" src="rb2o1" xy="0,0"/>
+    <image id="n10_rb2o" name="n10" src="rb2o2w" xy="0,59"/>
+    <image id="n11_rb2o" name="n11" src="rb2o2v" xy="6,59" size="6,626"/>
+    <image id="n3_rb2o" name="n3" src="rb2o2d" xy="85,129"/>
+    <image id="n4_rb2o" name="n4" src="rb2o2g" xy="913,242"/>
+    <image id="n5_rb2o" name="n5" src="rb2o2h" xy="1004,369"/>
+    <component id="n6_rb2o" name="n6" src="rb2o2s" xy="820,110"/>
+    <component id="n8_rb2o" name="n8" src="rb2o2t" xy="1055,571"/>
+    <list id="n12_rb2o" name="n12" xy="6,169" size="200,305" overflow="scroll">
+      <item url="ui://kohdysworb2o2u"/>
+      <item url="ui://kohdysworb2o2x"/>
+      <item url="ui://kohdysworb2o2y"/>
+      <item url="ui://kohdysworb2o2z"/>
+    </list>
+    <component id="n1_rb2o" name="n1" src="rb2of" xy="-2,-2" locked="true" controller="Position,0"/>
+  </displayList>
+</component>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="2d4t5ma1" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="ppbs0" name="img-youjunzhenwang.png" path="/" scale="" qualityOption="source"/>
+    <image id="ppbs1" name="img-dijunzhenwang.png" path="/" scale="" qualityOption="source"/>
+    <component id="ppbs2" name="zhenwangtishi.xml" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

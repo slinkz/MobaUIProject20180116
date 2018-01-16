@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="2j0u2d4k" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="ppbs0" name="img-cilun.png" path="/tupian/"/>
+    <image id="ppbs1" name="img-huiheshengli.png" path="/tupian/"/>
+    <image id="ppbs2" name="img-huiheshenglidi.png" path="/tupian/" scale="" qualityOption="source"/>
+    <image id="ppbs3" name="img-MVP.png" path="/tupian/"/>
+    <image id="ppbs4" name="img-tiaowen.png" path="/tupian/"/>
+    <image id="ppbs5" name="img-bodian.png" path="/tupian/"/>
+    <component id="ppbs8" name="huiheshengli.xml" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>
